@@ -158,10 +158,6 @@ npm test
 
 Good next contributions: direct ZIP import, encrypted portable backups, user-controlled cloud conflict merging, OneDrive for Business support, OAuth integration tests with test accounts, a more advanced similarity model, graph performance optimization, and accessibility testing.
 
-## Eligibility for Claude for Open Source
-
-The separate [Claude for Open Source program](https://claude.com/contact-sales/claude-for-oss) provides six months of Claude Max 20x to eligible **established** open-source contributors. Creating this repository does **not** automatically qualify you. The program lists criteria such as 100 merged PRs into others' repositories in the previous year, 20 unique external contributors to your repository, or significant package reach. You can apply explaining genuine contributions and impact; do not misrepresent project adoption.
-
 ## License
 
 MIT. Community contributions welcome.
