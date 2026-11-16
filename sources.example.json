@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {"type":"youtube","url":"https://www.youtube.com/watch?v=abcdefghijk","transcript":"lecture.vtt","title":"Example lecture"},
+    {"type":"forum","url":"https://discuss.example.org/t/topic"},
+    {"type":"wiki","url":"https://en.wikipedia.org/wiki/Knowledge_graph"},
+    {"type":"text","url":"notes.md"}
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+claude-hive*.json
+
+# ECO local per-project settings and aggregate token-proxy stats
+.claude/hive-eco.json
+.claude/hive-eco-usage.jsonl

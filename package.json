@@ -1,0 +1,16 @@
+{
+  "name": "claude-hive",
+  "private": true,
+  "version": "0.8.0",
+  "type": "module",
+  "description": "A browser-based knowledge graph for Claude conversations with user-controlled cloud storage",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "serve": "npx --yes http-server -p 8080 -c-1 .",
+    "bench:eco": "node benchmarks/eco-benchmark.mjs"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
